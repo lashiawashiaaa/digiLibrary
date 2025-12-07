@@ -5,9 +5,13 @@ A simple, beginner-friendly digital library designed to provide reading material
 🚀 Features:
 
   📖 A clean and simple layout for browsing reading materials
+  
   🔍 Organized sections for different genres or categories
+  
   🌐 Fully built using HTML for practice and learning
+  
   🗂️ Easy-to-navigate page structure
+  
   🎨 Basic styling (if applicable) to improve readability
 
 🛠️ Technologies:HTML5 (current main focus)
@@ -18,6 +22,7 @@ A simple, beginner-friendly digital library designed to provide reading material
   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 
   Open the index.html file in your browser
+  
   Explore the digital library
 
 📸 Screenshot
@@ -39,8 +44,12 @@ A simple, beginner-friendly digital library designed to provide reading material
 
 📚 What I've Learned:
 
-  How to structure a basic webpage using HTML
-  How to organize content with headings, paragraphs, and lists
-  How to create links between pages
-  Building the foundation for future CSS and JavaScript skills
-  Better understanding of GitHub workflow and project management
+  -How to structure a basic webpage using HTML
+  
+  -How to organize content with headings, paragraphs, and lists
+  
+  -How to create links between pages
+  
+  -Building the foundation for future CSS and JavaScript skills
+  
+  -Better understanding of GitHub workflow and project management
