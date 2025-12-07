@@ -26,10 +26,15 @@ A simple, beginner-friendly digital library designed to provide reading material
 ✨ Future Improvements:
 
   -Add CSS for better visual design
+  
   -Make layout responsive for mobile users
+  
   -Add JavaScript search functionality
+  
   -Include a “favorites” or “save for later” feature
+  
   -Add more categories or reading sections
+  
   -Implement user accounts (long-term goal)
 
 📚 What I've Learned:
